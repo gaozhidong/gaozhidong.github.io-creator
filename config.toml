@@ -1,0 +1,4 @@
+baseURL = "gaozhidong.github.io/"
+languageCode = "zh-Hans"
+title = "dongdong的博客"
+theme = "ananke"
