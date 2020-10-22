@@ -5,9 +5,6 @@ date: 2017-03-06T21:40:32+08:00
 draft: false
 author: "gaozhidong"
 description: "HTML + JS 的一个 弹窗 ."
-resources:
-- name: "featured-image"
-  src: "featured-image.jpg"
 
 tags: ["JavaScript", "HTML"]
 categories: ["HTML"]
@@ -18,13 +15,13 @@ toc:
   auto: false
 ---
 
-HTML + JS 的一个 弹窗 
+**HTML + JS 的一个 弹窗**
 
 <!--more-->
 
 ## HTML + JS 的一个 弹窗 
 
-##### html 
+### html 
 ```
 <div id='one'>
   <button id='btn'>点我</button>
@@ -37,7 +34,7 @@ HTML + JS 的一个 弹窗
 </div>
 ```
 
-##### css 
+### css 
 ``` 
 * {
   margin: 0;
@@ -102,7 +99,7 @@ HTML + JS 的一个 弹窗
 }
 
 ```
-##### js
+### js
 ```
 var Modal = (function () {
 			function _Modal(ct, header, content) {
