@@ -19,7 +19,7 @@ toc:
 
 <!--more-->
 
-## HTML + JS 的一个 弹窗 
+## 代码结构
 
 ### html 
 ```
@@ -102,13 +102,13 @@ toc:
 ### js
 ```
 var Modal = (function () {
-			function _Modal(ct, header, content) {
-  this.ct = ct
-  this.header = header
-  this.content = content
-  this.init()
-  this.bind()
-}
+	function _Modal(ct, header, content) {
+    this.ct = ct
+    this.header = header
+    this.content = content
+    this.init()
+    this.bind()
+  }
 
 _Modal.prototype = {
   init: function () {

@@ -479,7 +479,7 @@ enableEmoji = true
       # Publisher info
       # 出版者信息
       [params.page.seo.publisher]
-        name = "xxxx"
+        name = "gaozhidong"
         logoUrl = "/images/avatar.png"
 
   # TypeIt config
@@ -607,8 +607,8 @@ enableEmoji = true
 # Author config
 # 作者配置
 [author]
-  name = "xxxx"
-  email = ""
+  name = "gaozhidong"
+  email = "gaozd1995@gmail.com"
   link = ""
 
 # Sitemap config

@@ -3,25 +3,15 @@ title: "{{ replace .TranslationBaseName "-" " " | title }}"
 subtitle: ""
 date: {{ .Date }}
 draft: true
-author: ""
-authorLink: ""
-description: ""
+author: "gaozhidong"
 
-tags: []
-categories: []
+description: "这是描述"
 
-hiddenFromHomePage: false
-hiddenFromSearch: false
+tags: ["JavaScript", "HTML"]
+categories: ["HTML"]
 
 featuredImage: ""
 featuredImagePreview: ""
-
-toc:
-  enable: true
-math:
-  enable: false
-lightgallery: false
-license: ""
 ---
 
 <!--more-->
