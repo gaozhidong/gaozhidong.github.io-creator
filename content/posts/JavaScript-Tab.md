@@ -17,8 +17,6 @@ featuredImagePreview: ""
 toc:
   enable: true
 
-
-
 ---
 
 **使用原生JavaScript完成一个Tab切换**
