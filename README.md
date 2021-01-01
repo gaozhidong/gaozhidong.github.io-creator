@@ -9,3 +9,9 @@ hugo new posts/xxx.md
 ```
 hugo server -D
 ```
+
+* 生成文档
+
+```
+hugo -D 
+```
