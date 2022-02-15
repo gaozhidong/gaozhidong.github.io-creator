@@ -9,7 +9,6 @@ description: "HTML + JS 的一个 弹窗 ."
 tags: ["JavaScript", "HTML"]
 categories: ["HTML"]
 
-lightgallery: true
 
 toc:
   auto: false
