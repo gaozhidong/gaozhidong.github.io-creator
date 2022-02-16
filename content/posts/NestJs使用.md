@@ -5,10 +5,10 @@ date: 2021-02-15T16:52:34+08:00
 draft: true
 author: "gaozhidong"
 
-description: "这是描述"
+description: "node NestJs"
 
-tags: ["JavaScript", "HTML"]
-categories: ["HTML"]
+tags: ["JavaScript", "node"]
+categories: ["node"]
 
 featuredImage: ""
 featuredImagePreview: ""

@@ -5,10 +5,10 @@ date: 2021-03-16T10:48:45+08:00
 draft: true
 author: "gaozhidong"
 
-description: "这是描述"
+description: "React ESLint"
 
-tags: ["JavaScript", "HTML"]
-categories: ["HTML"]
+tags: ["JavaScript", "React","VS Code"]
+categories: ["ESLint"]
 
 featuredImage: ""
 featuredImagePreview: ""
